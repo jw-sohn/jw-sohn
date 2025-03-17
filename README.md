@@ -1,4 +1,4 @@
-[Email](mailto:jw_sohn@korea.ac.kr) | [Pubs](https://scholar.google.com/citations?user=rqBpumIAAAAJ&hl=en) | [CV](https://drive.google.com/file/d/1LhyzD14QRF83lt7X1x7VpqFWOPeBAho_/view?usp=sharing) | [Web](https://jw-sohn.github.io/) | [LinkedIn](https://www.linkedin.com/in/jiwoong-sohn/) | [X](https://x.com/de_Jiung) | [Inst](https://www.instagram.com/ahwatnow/)
+[Email](mailto:jw_sohn@korea.ac.kr) | [Pubs](https://scholar.google.com/citations?user=5cUeXqIAAAAJ&hl=en) | [CV](https://drive.google.com/file/d/1LhyzD14QRF83lt7X1x7VpqFWOPeBAho_/view?usp=sharing) | [Web](https://jw-sohn.github.io/) | [LinkedIn](https://www.linkedin.com/in/jiwoong-sohn/) | [X](https://x.com/de_Jiung) | [Inst](https://www.instagram.com/ahwatnow/)
 
 <!--
 **jw-sohn/jw-sohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
