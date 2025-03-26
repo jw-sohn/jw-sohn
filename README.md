@@ -1,16 +1,13 @@
-<h2 align="center">📊 My Dev Stats</h2>
+
+
+<!--
+**jw-sohn/jw-sohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <p align="center">
   <a href="https://solved.ac/ahwatnow/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ahwatnow" alt="Solved.ac Profile"/>
   </a>
 </p>
-
-
-
-
-<!--
-**jw-sohn/jw-sohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
