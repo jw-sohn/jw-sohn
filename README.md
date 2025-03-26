@@ -6,10 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jw-sohn&show_icons=true&count_private=true&theme=tokyonight&hide=issues&line_height=30" width="400px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jw-sohn&theme=tokyonight" width="400px">
-</p>
 
 
 
